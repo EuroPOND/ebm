@@ -8,14 +8,12 @@ The Event-Based Model (EBM) is a simple, robust model for the estimation of the 
 Important Links
 ===============
 
-- [Issue tracker](https://github.com/ucl-mig/ebm/issues)
+- [Issue tracker](https://github.com/ucl-pond/ebm/issues)
 
 EBM Papers
 ----------
-- [Young *et al*, Brain, **2014**](http://brain.oxfordjournals.org/cgi/pmidlookup?view=long&pmid=25012224)
 - [Fonteijn *et al*, NeuroImage, **2012**](http://www.sciencedirect.com/science/article/pii/S1053811912000791)
-
-
+- [Young *et al*, Brain, **2014**](http://brain.oxfordjournals.org/cgi/pmidlookup?view=long&pmid=25012224)
 
 Dependencies
 ============
@@ -27,4 +25,4 @@ The code depends heavily on NumPy, uses SciPy to calculate some stats and do som
 
 Contributing
 ============
-Please read the [CONTRIBUTING.md](https://github.com/ucl-mig/ebm/blob/master/CONTRIBUTING.md) file before making any contributions.
+Please read the [CONTRIBUTING.md](https://github.com/ucl-pond/ebm/blob/master/CONTRIBUTING.md) file before making any contributions.
